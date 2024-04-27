@@ -4,6 +4,12 @@ Portfolio
 # Resume
 https://github.com/landonward8/Resume
 
+# Capstone Project 
+https://github.com/landonward8/fitnessLog/tree/main
+For my capstone project, I developed a comprehensive fitness application tailored to enhance individual health and wellness. Utilizing Swift and developed in Xcode, this sophisticated app offers unique features designed to monitor and promote various aspects of a user's health. Key functionalities include:
+
+Water Tracking: Helps users stay hydrated by tracking their daily water intake. Calorie Tracking: Assists in dietary management by logging daily caloric consumption. Sleep Tracking: Monitors sleep patterns to ensure a restful night's sleep, contributing to overall well-being. Mood Tracking: Offers a reflective look at emotional health by allowing users to record and analyze their mood over time. Journal Feature: Enables users to keep a personal journal, encouraging them to document their fitness journey and reflect on their daily experiences and progress.
+
 # Airport-Database
 https://github.com/landonward8/Airport-Database
 Database that I developed with a partner for CMPT307 to help Aiports keep track of valuable information like Destination, Flight Time, Seat Capacity of a plane, etc. I chose to have this assignment in my portfolio because it demonstrates my ability to work with a partner and collabrate. When we built the database, Southwest Airlines was having major issues with their system and flights were getting cancelled. Our idea was to fix this and build a database! We used Python and SQL to do so. 
