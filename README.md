@@ -1,6 +1,3 @@
-# Portfolio
-Portfolio
-
 # Resume
 https://github.com/landonward8/Resume
 
