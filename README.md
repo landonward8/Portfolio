@@ -6,7 +6,7 @@ Diving into my portfolio, you'll navigate through a selection of projects that e
 I invite you to explore my portfolio further. Here, you'll find not just a reflection of my past accomplishments but also a vision of the potential I bring.
 
 # Resume
-https://github.com/landonward8/Resume
+https://github.com/landonward8/Resume/blob/main/LandonWardResume.pdf
 
 # Capstone Project 
 https://github.com/landonward8/fitnessLog/tree/main
