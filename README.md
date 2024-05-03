@@ -20,7 +20,7 @@ For my capstone project, I developed a comprehensive fitness application tailore
 - **Sleep Tracking:** Monitors sleep patterns.
 - **Mood Tracking:** Allows users to record their mood.
 - **Journal Feature:** Enables users to keep a personal journal, encouraging them to document their fitness journey and reflect on their daily experiences and progress.
-- **Weight Tracking:** This enables the user to track their weight.
+- **Weight Tracking:** Enables the user to track their weight.
 
 ## Airport Database
 [Airport Database Project](https://github.com/landonward8/Airport-Database)
@@ -40,7 +40,7 @@ A C-based program that enhances my understanding of system-level operations thro
 ## Fruit Rush
 [Fruit Rush: Educational Game](https://landonward8.itch.io/fruit-rush-avengers)
 
-An engaging educational game designed for first and second-graders, focusing on foundational mathematics through interactive math questions. Developed to enhance both individual learning and classroom integration, the game features a teacher dashboard for tracking progress and tailoring instruction.
+An engaging educational game designed for first and second graders, focusing on foundational mathematics through interactive math questions. Developed to enhance both individual learning and classroom integration, the game features a teacher dashboard for tracking progress and tailoring instruction.
 
 ## Chat Room
 [Java-based Chat Room](https://github.com/landonward8/ChatRoom/tree/main)
