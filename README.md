@@ -1,7 +1,7 @@
 # Landon Ward
 
 ## About
-I am a Computer Science graduate from Westminster University with a flair for innovation and teamwork. My journey has included rigorous academic challenges, athletic discipline as the captain of the men’s soccer team, and a plethora of diverse internships and projects that have shaped my expertise in software development and data science.
+I am a Computer Science graduate from Westminster University with a flair for innovation and teamwork. My journey has included rigorous academic challenges, athletic discipline as the captain of the men’s soccer team, and a plethora of diverse internships and projects that have shaped my expertise in software development and mathematics.
 
 ## Portfolio
 Diving into my portfolio, you'll navigate through a selection of projects that epitomize my passion for problem-solving and my proficiency in languages such as Java, Python, SQL, and more. From developing a unique ranking system for NFL teams to creating an educational platform game, each project is a testament to my ability to blend technical skills with real-world applications.
